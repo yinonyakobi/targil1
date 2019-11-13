@@ -10,7 +10,7 @@ namespace part2
     {
         static void Main(string[] args)
         {
-            int a
+            int a;
         }
     }
 }
