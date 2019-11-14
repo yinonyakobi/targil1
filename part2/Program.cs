@@ -11,7 +11,7 @@ namespace part2
         static void Main(string[] args)
         {
             bool[,] occupied = new bool[12, 31];
-            occupied.Initialize(false);;
+            occupied.Initialize(false);
 
 
             bool exit = false;
